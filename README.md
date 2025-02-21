@@ -14,13 +14,13 @@ WinTooth is a simple C++ program for discovering Bluetooth devices and checking 
 
 ## Installation
 1. Clone the repository:
-   ```powershell
-   git clone https://github.com/Raulisr00t/WinTooth.git
-   ```
+```powershell
+git clone https://github.com/Raulisr00t/WinTooth.git
+```
 2.Open the project in Visual Studio or compile it manually:
-   ```powershell
-   cl WinTooth.cpp /link /LIBPATH:"C:\Path\To\Windows\SDK\Lib" Bthprops.lib
-  ```
+```powershell
+cl WinTooth.cpp /link /LIBPATH:"C:\Path\To\Windows\SDK\Lib" Bthprops.lib
+```
 ## Usage
 Run the executable to scan for Bluetooth devices:
 ```powershell
