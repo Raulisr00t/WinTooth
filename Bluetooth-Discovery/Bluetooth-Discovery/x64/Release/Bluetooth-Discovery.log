@@ -1,0 +1,11 @@
+﻿  device-discovery.cpp
+C:\Users\Msi\source\repos\Bluetooth-Discovery\Bluetooth-Discovery\device-discovery.cpp(63,22): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Msi\source\repos\Bluetooth-Discovery\Bluetooth-Discovery\device-discovery.cpp(66,22): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Msi\source\repos\Bluetooth-Discovery\Bluetooth-Discovery\device-discovery.cpp(134,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Msi\source\repos\Bluetooth-Discovery\Bluetooth-Discovery\device-discovery.cpp(137,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Generating code
+  5 of 47 functions (10.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bluetooth-Discovery.vcxproj -> C:\Users\Msi\source\repos\Bluetooth-Discovery\x64\Release\Bluetooth-Discovery.exe
